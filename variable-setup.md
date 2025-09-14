@@ -1,5 +1,5 @@
 Add them to your shell config file:
-```bash
+```shell
 nano ~/.bashrc
 ```
 At the bottom, add:
