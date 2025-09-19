@@ -3,6 +3,7 @@ Collections of AI installations and implements
 
 ## API key
 1. [OpenAI](https://platform.openai.com/api-keys)
+2. [Facebook](https://developers.facebook.com/)
 
 ## N8N
 1. [Official n8n](https://n8n.io/)
