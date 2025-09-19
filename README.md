@@ -1,6 +1,9 @@
 # AI-Knowledges
 Collections of AI installations and implements
 
+## API key
+1. [OpenAI](https://platform.openai.com/api-keys)
+
 ## N8N
 1. [Official n8n](https://n8n.io/)
 1. [n8n localhost](http://localhost:5678/)
