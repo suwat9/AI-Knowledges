@@ -1,7 +1,7 @@
 # บทเรียน: สร้าง RAG System เพื่อโพสข้อความใน Facebook ด้วย n8n
 ## การเรียนรู้การสร้างระบบอัตโนมัติที่ฉลาดสำหรับ Social Media
 
-![Course Header](images/rag-facebook-n8n/course_header.png)
+![Course Header](./course_header.png)
 *ภาพรวมของระบบ RAG ที่เชื่อมต่อกับ Facebook ผ่าน n8n*
 
 ---
