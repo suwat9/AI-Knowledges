@@ -29,7 +29,7 @@
 
 ### RAG คืออะไร?
 
-![RAG Architecture](images/rag-facebook-n8n/rag_architecture.png)
+![RAG Architecture](./rag-architecture.png)
 *สถาปัตยกรรมของระบบ RAG*
 
 **RAG (Retrieval Augmented Generation)** เป็นเทคนิคที่รวม:
