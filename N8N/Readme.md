@@ -1,2 +1,2 @@
 # Json Security
-1. [Json file checking](./n8n-json.md)
+1. [Json file checking](./check-json.md)
